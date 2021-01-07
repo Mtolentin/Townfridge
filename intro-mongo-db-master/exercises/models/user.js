@@ -13,11 +13,14 @@ const userSchema = new mongoose.Schema({
   },
   email: {
     type: String,
+    // required: true,
     required: true,
+    // unique: true
     unique: true
   },
   betaUser: {
     type: Boolean,
+    // default: false
     default: false
   },
   birthDate: Date,

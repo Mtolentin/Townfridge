@@ -37,3 +37,5 @@ bundle.js*
 node_modules/
 .DS_Store
 /intro-mongo-db-master/node_modules/
+
+m_test/node_modules
