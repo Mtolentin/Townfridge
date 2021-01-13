@@ -39,3 +39,4 @@ node_modules/
 /intro-mongo-db-master/node_modules/
 
 m_test/node_modules
+m_test/config/keys.js
